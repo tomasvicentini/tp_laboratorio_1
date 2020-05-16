@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1589587495 source:c:\users\tomas\desktop\utn remoto programacion\programacion\tp2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1589594891 c:\users\tomas\desktop\utn remoto programacion\programacion\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589594891 source:c:\users\tomas\desktop\utn remoto programacion\programacion\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
